@@ -1,0 +1,21 @@
+10 Practice Questions (Easy → Medium)
+
+Reverse String — String ko in-place reverse karo.
+
+Valid Palindrome — Check karo ki string palindrome hai ya nahi.
+
+Two Sum II (Sorted Array) — Target sum wala pair find karo.
+
+Remove Duplicates from Sorted Array — Unique elements ko beginning me rakho.
+
+Move Zeroes — Sare zeroes ko end me bhejo.
+
+Squares of a Sorted Array — Squared values ko sorted order me return karo.
+
+Container With Most Water — Maximum water area find karo.
+
+3Sum — Aise triplets find karo jinka sum 0 ho.
+
+Sort Colors (Dutch National Flag) — 0,1,2 ko in-place sort karo.
+
+Linked List Cycle (Fast & Slow Pointer) — Detect karo ki cycle hai ya nahi.
